@@ -11,7 +11,7 @@
       ],
       "submenu": [
         {
-          "url": "/",
+          "url": "/admin/dashboard",
           "name": "Analytics",
           "slug": "dashboard-analytics"
         }
